@@ -1,2 +1,2 @@
 # Scraping
-## With Selenium, BS4, etc...
+## With Selenium.
