@@ -38,7 +38,7 @@ try:
     element_obj2 = driver_obj.find_element_by_id("signOnPass")
 
     element_obj1.send_keys("davidayodele@gmail.com")
-    element_obj2.send_keys("RTSpass1!")
+    element_obj2.send_keys("******")
     element_obj2.send_keys(Keys.ENTER)
 
     # Assuming the button has the ID "submit"
